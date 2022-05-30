@@ -1,2 +1,9 @@
 #JVM. Организация памяти, сборщики мусора, VisualVM
-![df](VisualVM_1.png)
+
+![png1](VisualVM_1.png)
+
+
+![png2](VisualVM_2.png)
+
+
+![png3](VisualVM_3.png)
